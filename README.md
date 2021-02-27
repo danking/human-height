@@ -8,3 +8,7 @@ Paste this into your terminal:
 ```
 python3 plot.py
 ```
+
+You'll see this:
+
+![histogram of human adult height overlaid with histograms of heights of men and heights of women](example.png)
